@@ -25,8 +25,7 @@
 
 <p>
 <strong>Pacvue</strong> -- <code>Test Development Engineer</code> -- <code>2026.08 to present</code><br/>
-<strong>Meituan</strong> -- <code>Test Development Engineer</code> -- <code>2024.06 to 2026.06</code><br/>
-<strong>Meituan</strong> -- <code>TDE Intern</code> -- <code>2023.07 to 2024.06</code><br/>
+<strong>Meituan</strong> -- <code>Test Development Engineer</code> -- <code>2024.06 to 2026.06(Internship 2023.07 to 2024.06)</code><br/>
 </p>
 
 - 🔍 **Now at Pacvue** — exploring AI-driven test efficiency, studying how frontier AI projects are engineered
