@@ -6,7 +6,7 @@
 
   <p>
     <code>🍪 Born 2002.08.31 · Leshan, China.</code>
-    <code>📍 Now based in Wuxi.</code>
+    <code>📍 Now based in Xian.</code>
   </p>
 
   <p>
