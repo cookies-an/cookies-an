@@ -11,7 +11,7 @@
 
   <p>
     <a href="https://cookies-an.github.io"><img alt="Homepage" src="https://img.shields.io/badge/homepage-cookies--an.github.io-c2600f?style=flat-square"></a>
-    <img alt="Now" src="https://img.shields.io/badge/now-%40%20Pacvue-2ea043?style=flat-square">
+    <a href="https://www.tencent.com/zh-cn/"><img alt="Now" src="https://img.shields.io/badge/now-%40%20Tencent-0052D9?style=flat-square&logo=tencent&logoColor=white"></a>
   </p>
 </div>
 
@@ -24,11 +24,12 @@
 > 📄 [What I did at Meituan →](https://github.com/cookies-an/cookies-an/blob/main/meituan.md) · [EN](https://github.com/cookies-an/cookies-an/blob/main/meituan.en.md)
 
 <p>
-<strong>Pacvue</strong> -- <code>Test Development Engineer</code> -- <code>2026.08 to present</code><br/>
+<strong>Tencent</strong> -- <code>Test Development Engineer</code> -- <code>2026.09 to present</code><br/>
+<strong>Pacvue</strong> -- <code>Test Development Engineer</code> -- <code>2026.08 to 2026.09</code><br/>
 <strong>Meituan</strong> -- <code>Test Development Engineer</code> -- <code>2024.06 to 2026.06(Internship 2023.07 to 2024.06)</code><br/>
 </p>
 
-- 🔍 **Now at Pacvue** — exploring AI-driven test efficiency, studying how frontier AI projects are engineered
+- 🔍 **Now at Tencent** — building test infrastructure for WorkBuddy, exploring how AI agents land in real QA pipelines
 
 #### 🎓 Education
 
