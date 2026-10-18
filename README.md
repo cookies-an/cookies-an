@@ -55,12 +55,11 @@
 
 I care more about making AI output *dependable* than making it impressive. Most of my work is about constraining the model, not prompting it harder.
 
-Sichuan-born, Wuxi-based. Off the clock: eat, sleep, mess around, repeat.
+Sichuan-born, Xian-based. Off the clock: eat, sleep, mess around, repeat.
 
 #### 🌱 Now
 
-- Maintaining Lingxi-translate
-- Shoring up data structures & algorithms
+- Vibe Coding 
 
 </td>
 </tr>
